@@ -9,7 +9,7 @@ Hey there! I'm Jane, a passionate developer diving deep into the multiverse of c
 ### Python
 ![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
 
-### Pygame
+### CSS
 ![Pygame](https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif)
 
 ### JavaScript
